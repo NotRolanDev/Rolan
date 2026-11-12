@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "skills": {
+    "roblox-animation": {
+      "source": "nonlooped/roblox-suite",
+      "sourceType": "github",
+      "skillPath": "roblox-animation/SKILL.md",
+      "computedHash": "fd88f4d7a93f1a6b1ddbdf4edfbdf143e90bd118042789eaad3bc640a5994c62"
+    },
+    "roblox-gui": {
+      "source": "sentinelcore/roblox-skills",
+      "sourceType": "github",
+      "skillPath": "roblox-gui/SKILL.md",
+      "computedHash": "5a9c7771564f35dbda50551933e3e82f707ad084c272719da646bdd0c41db9b7"
+    },
+    "roblox-vfx": {
+      "source": "nonlooped/roblox-suite",
+      "sourceType": "github",
+      "skillPath": "roblox-vfx/SKILL.md",
+      "computedHash": "c3d7170a4f235df482aacbad3704fcf293d4a52625b61ef7217e399dd8938b85"
+    }
+  }
+}
